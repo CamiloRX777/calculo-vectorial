@@ -1,0 +1,9 @@
+[0] Config.pm:306> INFO - This is Biber 2.18
+[0] Config.pm:309> INFO - Logfile is 'C:/Users/Windows/Documents/calculo-vectorial/build/main.blg'
+[146] biber-MSWIN64:340> INFO - === 
+[191] Biber.pm:418> INFO - Reading 'C:/Users/Windows/Documents/calculo-vectorial/build/main.bcf'
+[345] Biber.pm:978> INFO - Found 0 citekeys in bib section 0
+[367] bbl.pm:654> INFO - Writing 'C:/Users/Windows/Documents/calculo-vectorial/build/main.bbl' with encoding 'UTF-8'
+[367] bbl.pm:757> INFO - Output to C:/Users/Windows/Documents/calculo-vectorial/build/main.bbl
+[367] Biber.pm:130> WARN - The file 'C:/Users/Windows/Documents/calculo-vectorial/build/main.bcf' does not contain any citations!
+[367] Biber.pm:132> INFO - WARNINGS: 1
